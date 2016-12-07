@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="robots" content="noindex">
-	<title>Adaptation Multi Aspects - Propriétés</title>
+	<title>MAGAM manager - Propriétés</title>
 	<link rel="icon" type="image/png" href="images/favicon.png" />
 </head>
 <body>	
