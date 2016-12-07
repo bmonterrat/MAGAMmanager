@@ -42,19 +42,5 @@
 	</fieldset>
 	<br>
 	
-	<fieldset>
-		<legend> Fonctions avancées </legend>
-		
-		<!-- initialisation Q-matrice -->
-		<a class="bouton3" href="aide.php?construire=oui"> Construire matrice activités </a><br/>
-		<br/>
-		
-		<!-- test du mail -->
-		<a class="bouton3" href="aide.php?mail=oui"> Envoyer un mail de test </a><br/>
-		<br/>
-	
-	</fieldset>
-	<br>
-	
 </body>
 </html>
