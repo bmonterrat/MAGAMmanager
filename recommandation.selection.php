@@ -181,7 +181,7 @@
 						echo '</td>';
 					}
 					//FINAL : bloc pour les mails
-					$datelim = '';
+					/*$datelim = '';
 					if(isset($_SESSION['datelim'])) 
 						$datelim = $_SESSION['datelim'];
 					else
@@ -230,7 +230,7 @@
 								}
 							echo '</table>';
 						echo '</td>';
-					}					
+					}*/					
 				echo '</tr>';
 				
 			echo '</table>';
