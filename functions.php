@@ -1,23 +1,8 @@
 ﻿<?php
 
-function sendmailtest()
-{
-	$envoi = mail( 
-			"baptistemonterrat@gmail.com", 
-			"Patates", 
-			"Ceci est un message de test.\r\n
-			 \r\n
-			 Baptiste\r\n" );
-	if($envoi)
-		echo '<span class="vert"> Mail test envoyé avec succès.</span>';
-	else
-		echo '<span class="vert"> Echec lors de l\'envoi du mail test.</span>';
-}
-
 function sendmail($destinataire, $act1, $act2, $act3, $idMoodle, $deadline, $nom)
 {
 	$envoi = mail( 
-		$destinataire.', experimentation.info@gmail.com',
 		"Activités pour ".$deadline." ", 
 		"Bonjour ".$nom.",
 		
